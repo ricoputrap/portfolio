@@ -9,16 +9,23 @@ import Layout from "../layouts/main.astro";
   <section class="relative z-20 max-w-2xl mx-auto my-12 px-7 lg:px-0">
     <PageHeading
       title="About Me"
-      description="Hello 👋 I'm a frontend engineer from Nanjing, China. I'm passionate about building new products and learning new technology."
+      description={
+        "Hello 👋 I'm RICO, a Fullstack Web Developer with over 3 years of experience. "
+        + "NextJS is my go-to framework to build solutions for your needs & problems. "
+        + "I also use Notion, Figma, and Excalidraw to help me doing Analysis & Design."
+      }
     />
 
     <img src="/assets/images/about.jpg" class="relative z-30 w-full my-10 rounded-xl" />
 
     <h2 class="mb-2 text-2xl font-bold dark:text-neutral-200">Short Bio</h2>
     <p
-      class="text-sm leading-6 text-gray-600 dark:text-neutral-400 sm:leading-7 lg:leading-8 sm:text-base lg:text-lg"
+      class={
+        "text-sm leading-6 text-gray-600 dark:text-neutral-400 "
+        + "sm:leading-7 lg:leading-8 sm:text-base lg:text-lg"
+      }
     >
-      Front-end cutter 🧑🏻‍💻, back-end amateur 🤷🏻‍♂️, operations digging holes person 🤦🏻‍♂️.
+      Love developing beautiful & intuitive web applications.
     </p>
 
     <h2
@@ -31,7 +38,7 @@ import Layout from "../layouts/main.astro";
         experiences.map((experience, loop) => {
           return (
             <>
-              {loop == 0 || loop == 1 ? (
+              {loop < experiences.length - 1 ? (
                 <div class="pb-10 border-l border-gray-200 dark:border-neutral-700">
                   <AboutExperience
                     dates={experience.dates}
@@ -61,10 +68,10 @@ import Layout from "../layouts/main.astro";
       class="text-sm leading-6 text-gray-600 dark:text-neutral-400 sm:leading-7 lg:leading-8 sm:text-base lg:text-lg"
     >
       If you want to stay up to date with my work be sure to <a
-        href="https://twitter.com/ccikai"
+        href="https://twitter.com/rico_rpp21"
         target="_blank"
         class="text-indigo-600 underline">follow me on twitter</a
-      >, or you can send me an <a href="mailto:astro-aria#miantiao.me" class="text-indigo-600 underline"
+      >, or you can send me an <a href="mailto:founder@ricoputra.dev" class="text-indigo-600 underline"
         >email</a
       > and I'll be sure to get back to you.
     </p>

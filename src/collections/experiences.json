@@ -1,23 +1,37 @@
 [
 	{
-		"dates": "June 2018 · Present",
-		"role": "Front-end Engineer",
-		"company": "Full Truck Alliance",
-		"description": "Responsible for customer service and CRM system front-end development.",
-		"logo": "/assets/images/experiences/fta.ico"
+		"dates": "January 2022 · Present",
+		"role": "Senior Developer - NextJS, TypeScript",
+		"company": "M+ Software",
+		"description": "As a core developer of SARA Hotel Service Management, I create high-level system designs, lead project planning and resource allocation, coach team members, conduct code reviews, and optimize development processes using TypeScript, React.js, and Next.js.",
+		"logo": "/assets/images/experiences/mplus.webp"
 	},
 	{
-		"dates": "July 2015 · June 2018",
-		"role": "Front-end Engineer",
-		"company": "YOHO!",
-		"description": "Responsible for mobile front-end development of e-commerce platform.",
-		"logo": "/assets/images/experiences/yoho.ico"
+		"dates": "December 2020 · January 2022",
+		"role": "Junior Developer",
+		"company": "M+ Software",
+		"description": "I develop for SARA with React.js and PHP CodeIgniter3, crafted bespoke JavaScript components for Breguet, and enhanced the Urban Fitouts website using HTML, CSS, JavaScript, and Drupal CMS.",
+		"logo": "/assets/images/experiences/mplus.webp"
 	},
 	{
-		"dates": "September 2014 · July 2015 ",
-		"role": "Node.JS Developer",
-		"company": "WuLian",
-		"description": "Intern, involved in the development of Internet of Things cloud systems.",
-		"logo": "/assets/images/experiences/wulian.ico"
+		"dates": "September 2020 · January 2021",
+		"role": "Frontend Web Developer",
+		"company": "Freelance",
+		"description": "Take a role as a programmer focusing on the frontend using Vue JS, Vuetify, Vuex, and Vue-Router. I work on my last project on developing IS to manage the laboratory of Teaching Industry Biomaterial Universitas Indonesia.",
+		"logo": "/assets/images/experiences/ui.png"
+	},
+	{
+		"dates": "November 2019 · Mar 2020",
+		"role": "Project Manager",
+		"company": "Freelance",
+		"description": "I lead a consulting team consisting of a system analyst, two designers, and four programmers. Our client is one of the laboratories in the Faculty of Engineering UI, namely Teaching Industry Biomaterial UI. We are working on developing an information system to manage the laboratory's operations.",
+		"logo": "/assets/images/experiences/ui.png"
+	},
+	{
+		"dates": "May 2019 · Aug 2019",
+		"role": "Software Engineer Intern - Android",
+		"company": "The eCEOs",
+		"description": "Develop EPMPro mobile app product of The eCEOs Sdn Bhd. (As Frontend Mobile Developer & UI/UX Designer)",
+		"logo": "/assets/images/experiences/eceos.png"
 	}
 ]
