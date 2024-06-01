@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/post.astro
+layout: ../../../layouts/post.astro
 title: Writing Less, Achieving More
 description: Delve into the art of minimalist coding, where simplicity reigns supreme, leading to clearer, more efficient, and aesthetically pleasing code.
 dateFormatted: July 27th, 2023

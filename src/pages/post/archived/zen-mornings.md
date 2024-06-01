@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/post.astro
+layout: ../../../layouts/post.astro
 title: A Developer's Guide to Zen Mornings
 description: Dive into the zen world of a developer's morning, where vinyl beats meet artisanal brews, setting the tone for a day of inspired coding and design.
 dateFormatted: July 15th, 2023

@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/post.astro
+layout: ../../../layouts/post.astro
 title: The Revival of Vintage Tech
 description: Embark on a nostalgic journey exploring the charm of vintage tech and its unexpected resurgence among modern developers and designers.
 dateFormatted: July 27th, 2023
